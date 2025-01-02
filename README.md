@@ -1,7 +1,6 @@
-This is Pika Pika, a basic Pokemon app created using React 19
-Will be get more update
+This is Pika Pika, a basic Pokemon app created using React 19.
+Will be get more update.
 Feel free to contribute and make it more beautiful ❤
-
 
 # React + Vite
 
