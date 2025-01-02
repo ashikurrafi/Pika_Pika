@@ -9,12 +9,9 @@ import "./App.css";
 import Favorites from "./components/Favorites";
 import Pokemon from "./components/Pokemon";
 
-import { SpeedInsights } from "@vercel/speed-insights/next";
-
 function App() {
   return (
     <Router>
-      <SpeedInsights />
       <div>
         <h1 className="text-3xl font-bold text-center mt-5 mb-5">Pika Pika</h1>
         <Navigation />
